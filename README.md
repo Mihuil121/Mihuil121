@@ -28,6 +28,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="200" src="https://github.com/Mihuil121/Mihuil121/blob/main/Leonardo_Phoenix_A_sleek_minimalist_composition_set_against_a_3.jpg"  />
+</div>
 
 ###
