@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="30" alt="zustand logo" />
+  <img src="https://github.com/Mihuil121/Mihuil121/blob/main/bear-3852349327.png" height="30" alt="zustand logo" />
 </div>
 
 ###
@@ -29,7 +29,7 @@
   <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://t.me/your-telegram" target="_blank">
+  <a href="https://t.me/contact/1725004179:iuMyQOMJnbMMpeKC" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
 </div>
@@ -42,11 +42,3 @@
 
 ###
 
-
-###
-
-<div align="center">
-  <img src="https://github.com/Mihuil121/Mihuil121/blob/main/Leonardo_Phoenix_A_sleek_minimalist_composition_set_against_a_3.jpg" style="width: 100%; height: auto;" alt="Your Image" />
-</div>
-
-###
