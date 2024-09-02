@@ -34,9 +34,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/Mihuil121/Mihuil121/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img src="https://github.com/Mihuil121/Mihuil121/blob/main/Leonardo_Phoenix_A_sleek_minimalist_composition_set_against_a_3.jpg" style="width: 100%; height: auto;" alt="Your Image" />
