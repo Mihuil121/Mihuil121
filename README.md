@@ -21,7 +21,6 @@
   <img src="https://github.com/Mihuil121/Mihuil121/blob/main/bear-3852349327.png" height="30" alt="zustand logo" />
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const mihuil = {
