@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://github.com/Mihuil121/Mihuil121/blob/main/bear-3852349327.png" height="30" alt="zustand logo" />
 </div>
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const mihuil = {
@@ -34,8 +34,6 @@ const mihuil = {
   currentLearning: "Zustand, Next.js"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 <div align="center"> <img src="https://github.com/Mihuil121/Mihuil121/blob/main/Leonardo_Phoenix_A_sleek_minimalist_composition_set_against_a_3.jpg" style="width: 100%; height: auto;" alt="Your Image" /> </div>
 📫 Contact Me
 <div align="left"> <a href="https://discord.com/invite/fox121_" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /> </a> <a href="mailto:bezugliymicha@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </a> <a href="https://t.me//@Mihuil_121" target="_blank"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" /> </a> </div> 
