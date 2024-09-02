@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Mihuil121, and I'm a Frontend Developer</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 
 <p><em>I'm a beginner frontend developer learning <a href="https://reactjs.org/">React</a> and <a href="https://redux.js.org/">Redux</a>.<br> Currently studying <a href="https://zustand.surge.sh/">Zustand</a> and planning to learn <a href="https://nextjs.org/">Next.js</a>.</em></p>
 
