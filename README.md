@@ -34,6 +34,6 @@ const mihuil = {
   currentLearning: "Zustand, Next.js"
 }
 ```
-<div align="center"> <img src="https://github.com/Mihuil121/Mihuil121/blob/main/Leonardo_Phoenix_A_sleek_minimalist_composition_set_against_a_3.jpg" style="width: 100%; height: auto;" alt="Your Image" /> </div>
+<div align="center"> <img src="https://github.com/Mihuil121/Mihuil121/blob/main/Designer.jpeg" style="width: 100%; height: auto;" alt="Your Image" /> </div>
 📫 Contact Me
 <div align="left"> <a href="https://discord.com/invite/fox121_" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /> </a> <a href="mailto:bezugliymicha@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </a> <a href="https://t.me//@Mihuil_121" target="_blank"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" /> </a> </div> 
