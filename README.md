@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋! My name is Mihuil121, and I'm a Frontend Developer</h2>
 
-
-<p><em>I'm a beginner frontend developer learning <a href="https://reactjs.org/">React</a> and <a href="https://redux.js.org/">Redux</a>.<br> Currently studying <a href="https://zustand.surge.sh/">Zustand</a> and planning to learn <a href="https://nextjs.org/">Next.js</a>.</em></p>
+<p><em>I'm a beginner frontend developer learning <a href="https://reactjs.org/">React</a> and <a href="https://redux.js.org/">Redux</a>.<br> Currently studying <a href="https://zustand.surge.sh/">Zustand</a> and <a href="https://nextjs.org/">Next.js</a></em></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -19,13 +18,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
   <img width="12" />
   <img src="https://github.com/Mihuil121/Mihuil121/blob/main/bear-3852349327.png" height="30" alt="zustand logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo" />
 </div>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const mihuil = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, React, Redux, Zustand, Electron],
+  code: [Javascript, Typescript, React, Redux, Zustand, Electron, Next.js],
   projects: [
     { name: "Owner avatar", link: "https://github.com/Mihuil121/ReactBlopster.ts" },
     { name: "Copilot-js-bing.Ai", link: "https://github.com/Mihuil121/Copilot-js-bing.Ai" },
