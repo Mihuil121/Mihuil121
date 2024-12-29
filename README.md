@@ -28,10 +28,7 @@
 const mihuil = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, React, Redux, Zustand, Electron, Next.js],
-  projects: [
-    { name: "Owner avatar", link: "https://github.com/Mihuil121/ReactBlopster.ts" },
-    { name: "Copilot-js-bing.Ai", link: "https://github.com/Mihuil121/Copilot-js-bing.Ai" },
-    { name: "QR-Code", link: "https://github.com/Mihuil121/QR-Code" }
+
   ],
   currentLearning: "Zustand, Next.js"
 }
