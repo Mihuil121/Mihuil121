@@ -29,7 +29,7 @@
 ```javascript
 const mihuil = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, React, Redux, Zustand, Electron, Next.js],
+  code: [Javascript, Typescript, React, Redux, Zustand, Electron, Next.js,Sass],
 
   ],
   currentLearning: "Zustand, Next.js"
