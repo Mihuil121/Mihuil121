@@ -20,6 +20,8 @@
   <img src="https://github.com/Mihuil121/Mihuil121/blob/main/bear-3852349327.png" height="30" alt="zustand logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo" />
+   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=vEiU8UeAmv0x&format=png&color=000000" height="30" alt="next.js logo" />
 </div>
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
