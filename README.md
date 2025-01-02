@@ -29,12 +29,16 @@
 ```javascript
 const mihuil = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, React, Redux, Zustand, Electron, Next.js,Sass],
-
-  ],
-  currentLearning: "Zustand, Next.js"
+  code: [Javascript, Typescript, React, Redux, Zustand, Electron, Next.js, Sass],
+  currentLearning: "Redux",
+  projects: [
+    { name: "next-rascut", link: "https://next-rascut.vercel.app/" },
+    { name: "next-project", link: "https://next-project-neon-five.vercel.app/" },
+    { name: "Stalker", link: "https://stalker-lake.vercel.app/" },
+    { name: "minecraft-gamenrg", link: "https://minecraft-gamenrg.vercel.app/" },
+  ]
 }
 ```
 <div align="center"> <img src="https://github.com/Mihuil121/Mihuil121/blob/main/Designer.jpeg" style="width: 100%; height: auto;" alt="Your Image" /> </div>
-📫 Contact Me
-<div align="left"> <a href="https://www.codewars.com/users/Mihuil121" target="_blank"> <img src="https://w7.pngwing.com/pngs/477/603/png-transparent-codewars-button-icon.png" height="35" alt="discord logo" /> </a> <a href="mailto:bezugliymicha@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> </a> <a href="https://t.me//@Mihuil_121" target="_blank"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" /> </a> </div> 
+
+📫 Contact Me <div align="left"> <a href="https://www.codewars.com/users/Mihuil121" target="_blank"> <img src="https://w7.pngwing.com/pngs/477/603/png-transparent-codewars-button-icon.png" height="35" alt="Codewars logo" /> </a> <a href="mailto:bezugliymicha@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /> </a> <a href="https://t.me/@Mihuil_121" target="_blank"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram logo" /> </a> </div>
